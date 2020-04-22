@@ -1,0 +1,11 @@
+{
+  "name": "text-editor.git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/make-story/text-editor.git",
+  "author": "sung-min <ysm0203@cj.net>",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
+}
